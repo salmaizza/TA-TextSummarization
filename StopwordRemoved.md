@@ -1,0 +1,7 @@
+| Input Articles | Tokenized Articles | 
+| ------------- | ------------- |
+|||
+|||
+|||
+|||
+|||
